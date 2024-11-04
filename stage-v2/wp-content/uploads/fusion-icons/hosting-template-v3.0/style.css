@@ -1,0 +1,129 @@
+@font-face {
+  font-family: 'hosting-template';
+  src:  url('fonts/hosting-template.eot?hbmf06');
+  src:  url('fonts/hosting-template.eot?hbmf06#iefix') format('embedded-opentype'),
+    url('fonts/hosting-template.ttf?hbmf06') format('truetype'),
+    url('fonts/hosting-template.woff?hbmf06') format('woff'),
+    url('fonts/hosting-template.svg?hbmf06#hosting-template') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="hosting-template-"], [class*=" hosting-template-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'hosting-template' !important;
+  speak: never;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.hosting-template-add-server:before {
+  content: "\e900";
+}
+.hosting-template-approve-server:before {
+  content: "\e901";
+}
+.hosting-template-cable-usb:before {
+  content: "\e902";
+}
+.hosting-template-check-box:before {
+  content: "\e903";
+}
+.hosting-template-cloud-computing:before {
+  content: "\e904";
+}
+.hosting-template-cloud-hosting:before {
+  content: "\e905";
+}
+.hosting-template-coding:before {
+  content: "\e906";
+}
+.hosting-template-connection:before {
+  content: "\e907";
+}
+.hosting-template-cpu:before {
+  content: "\e908";
+}
+.hosting-template-database:before {
+  content: "\e909";
+}
+.hosting-template-download:before {
+  content: "\e90a";
+}
+.hosting-template-engagement:before {
+  content: "\e90b";
+}
+.hosting-template-group:before {
+  content: "\e90c";
+}
+.hosting-template-hosting:before {
+  content: "\e90d";
+}
+.hosting-template-image:before {
+  content: "\e90e";
+}
+.hosting-template-international:before {
+  content: "\e90f";
+}
+.hosting-template-local-network:before {
+  content: "\e910";
+}
+.hosting-template-location-pin:before {
+  content: "\e911";
+}
+.hosting-template-personal-computer:before {
+  content: "\e912";
+}
+.hosting-template-play:before {
+  content: "\e913";
+}
+.hosting-template-plus:before {
+  content: "\e914";
+}
+.hosting-template-product:before {
+  content: "\e915";
+}
+.hosting-template-remove-server:before {
+  content: "\e916";
+}
+.hosting-template-router:before {
+  content: "\e917";
+}
+.hosting-template-satellite:before {
+  content: "\e918";
+}
+.hosting-template-search:before {
+  content: "\e919";
+}
+.hosting-template-server:before {
+  content: "\e91a";
+}
+.hosting-template-setting:before {
+  content: "\e91b";
+}
+.hosting-template-smartphone:before {
+  content: "\e91c";
+}
+.hosting-template-unlock:before {
+  content: "\e91d";
+}
+.hosting-template-upload:before {
+  content: "\e91e";
+}
+.hosting-template-web-hosting:before {
+  content: "\e91f";
+}
+.hosting-template-web-protection:before {
+  content: "\e920";
+}
+.hosting-template-website:before {
+  content: "\e921";
+}
